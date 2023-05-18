@@ -10,7 +10,7 @@ package prácticaunidad3;
  * @author ED05
  */
 public class CCuenta {
-
+//probando que se guardan los cambios de la practica unidad5
 
     // Propiedades de la Clase Cuenta
     private String nombre;
